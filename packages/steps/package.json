@@ -1,5 +1,5 @@
 {
-  "name": "lg-steps",
+  "name": "lg-steps-niu",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "7293d19246c5ee0771b87285188fcc3c0fc14dfc"
 }
