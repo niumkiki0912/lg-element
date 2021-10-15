@@ -3,7 +3,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "name": "lg-form-item",
+  "name": "lg-form-item-niu",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
