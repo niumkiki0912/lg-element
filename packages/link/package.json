@@ -1,15 +1,16 @@
 {
-  "name": "lg-form-niu",
+  "name": "lg-link-niu",
   "version": "0.0.3",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
     "del": "rimraf dist"
   },
   "keywords": [],
-  "author": "教瘦 <54337467@qq.com>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "lodash": "4"

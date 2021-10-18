@@ -1,13 +1,15 @@
 {
-  "name": "lg-steps-niu",
+  "name": "lg-steps",
   "version": "0.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "del": "rimraf dist"
   },
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
-  "gitHead": "d47cb84fc6a26d9140f69c3d1ea712490947b1ae"
+  "gitHead": "930f550a1a0da8370aa81ab36274b6d5d281dbf8"
 }
